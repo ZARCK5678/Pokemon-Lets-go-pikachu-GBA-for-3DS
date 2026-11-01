@@ -1,0 +1,1 @@
+Escanea este código desde la sección Remote Install de la aplicación FBI en tu 3DS para descargar el juego.<img width="1127" height="1127" alt="qr-code" src="https://github.com/user-attachments/assets/c2847442-eb37-4588-a350-f94d25c57d91" />
